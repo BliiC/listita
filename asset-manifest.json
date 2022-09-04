@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/listita/static/css/main.984cb7bd.css",
+    "main.js": "/listita/static/js/main.c3ace17c.js",
+    "static/js/787.d7054df6.chunk.js": "/listita/static/js/787.d7054df6.chunk.js",
+    "static/media/bg.jpg": "/listita/static/media/bg.06c45c458ab314389ace.jpg",
+    "index.html": "/listita/index.html",
+    "main.984cb7bd.css.map": "/listita/static/css/main.984cb7bd.css.map",
+    "main.c3ace17c.js.map": "/listita/static/js/main.c3ace17c.js.map",
+    "787.d7054df6.chunk.js.map": "/listita/static/js/787.d7054df6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.984cb7bd.css",
+    "static/js/main.c3ace17c.js"
+  ]
+}
